@@ -1,0 +1,60 @@
+*{
+   
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+body{
+    background-color: black;
+}
+.Registration{
+    height: 40%;
+    border: 1px dashed #fff;
+    margin-left: 30%;
+    align-items: center;
+    width: 40%;
+}
+.Registration h1{
+    text-align: center;
+    color: #fff;
+    font-size: large;
+}
+.Registration h3{
+    color: #fff;
+}
+.Registration img{
+   
+    width: 50%;
+    height: auto;
+    border: 1px solid;
+    border-radius: 100px;
+}
+.Registration p{
+    color: #fff;
+    font-size: 15px;
+    margin: 10px 0;
+}
+.Registration input{
+    font-size: 15px;
+    padding: 10px 15px;
+    width: 89%;
+    border-radius: 10px;
+}
+.Registration button{
+    
+    font-size: 15px;
+    font-weight: bold;
+    margin: 20px 0;
+    padding: 10px 15px;
+    width: 30%;
+    border-radius: 5px;
+    background-color: #fff;
+}
+.Registration button:hover{
+    color: green;
+}
+
+#Suffix{
+    height: auto;
+    width: 50%;
+}
